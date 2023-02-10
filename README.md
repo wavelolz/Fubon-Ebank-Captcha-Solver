@@ -1,6 +1,6 @@
 <div>
-    <h1> Fubon E-Bank Captcha Solver </h1> 
-    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/consultant.png" width = 34 height = 34> 
+    <h1> Fubon E-Bank Captcha Solver 
+    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/consultant.png" width = 30 height = 30> 
 </div>
 
 ## For a thorough contents, please visit this link
