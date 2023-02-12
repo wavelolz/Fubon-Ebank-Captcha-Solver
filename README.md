@@ -3,8 +3,9 @@
     <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/consultant.png" width = 30 height = 30> 
 </div>
 
-# This project aims to solve the captcha image on Fubon EBank Website 
-# Note: This project is for academic only, any illegal behavior should be prevented
+> This project aims to solve the captcha image on Fubon EBank Website 
+
+> Note: This project is for academic only, any illegal behavior should be prevented
 
 ## Captcha Image Scrapped
 To download the captcha image from the website, we make use of Selenium to extract the captcha image from the website. We first navigate to the website logging area. Next, we download the captcha image then save it as base64 code. Then we decode base64 code to transform it back to captcha image. So we could get a captcha image like this.
