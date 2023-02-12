@@ -2,6 +2,7 @@
     <h1> Fubon E-Bank Captcha Solver 
     <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/consultant.png" width = 30 height = 30> 
 </div>
+
 # This project aims to solve the captcha image on Fubon EBank Website 
 # Note: This project is for academic only, any illegal behavior should be prevented
 
