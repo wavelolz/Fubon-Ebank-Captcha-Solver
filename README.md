@@ -68,15 +68,9 @@ This is a simple project I've done during I was affected by COVID-19 (`Definitel
 
 
 
-## To view the code, please visit this link
+## Link
 
 <div>
-    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/down-arrow%20(1).png" width = 25 height = 25>
-    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/down-arrow%20(1).png" width = 25 height = 25>
-    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/down-arrow%20(1).png" width = 25 height = 25>
-    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/down-arrow%20(1).png" width = 25 height = 25>
-    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/down-arrow%20(1).png" width = 25 height = 25>
-    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/down-arrow%20(1).png" width = 25 height = 25>
+    To view all python code in this project, click <a href = "https://wavelolz.github.io/Fubon-Ebank-Captcha-Solver/Fubon%20E-Bank%20Captcha%20Solver.html">  HERE </a> ◀️◀️◀️◀️◀️◀️
 </div>
 
-<a href = "https://wavelolz.github.io/Fubon-Ebank-Captcha-Solver/Fubon%20E-Bank%20Captcha%20Solver.html"> Fubon E-Bank Captcha Solver </a>
