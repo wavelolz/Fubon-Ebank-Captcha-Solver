@@ -3,6 +3,11 @@
     <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/consultant.png" width = 30 height = 30> 
 </div>
 
+<p align = "center">
+    <img src = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/picture/messageImage_1676463798895.jpg" width = 600 height = 450>
+</p>
+
+
 > This project aims to solve the captcha image on Fubon EBank Website 
 
 > Note: This project is for academic only, any illegal behavior should be prevented
