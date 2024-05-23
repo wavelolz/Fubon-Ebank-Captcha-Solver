@@ -75,7 +75,7 @@ This is a simple project I've done during I was affected by COVID-19 (`Definitel
 
 ## Link
 
-To view complete python code in this project, click <a href = "https://wavelolz.github.io/Fubon-Ebank-Captcha-Solver/Fubon%20E-Bank%20Captcha%20Solver.html">  HERE </a> ◀️◀️◀️◀️◀️◀️    
+To view complete python code in this project, click <a href = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver/blob/main/Fubon%20E-Bank%20Captcha%20Solver.ipynb">  HERE </a> ◀️◀️◀️◀️◀️◀️    
     
 To try on the captcha solver system yourself, click <a href = "https://drive.google.com/file/d/1uCpXmX3K2gVnnUv3dltZ0EXbZ4y9dLS4/view?usp=share_link">  HERE </a> ◀️◀️◀️◀️◀️◀️
     
